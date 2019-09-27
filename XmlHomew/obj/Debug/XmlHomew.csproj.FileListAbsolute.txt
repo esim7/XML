@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\XmlHomew\XmlHomew\bin\Debug\XmlHomew.exe.config
+C:\Users\home\source\repos\XmlHomew\XmlHomew\bin\Debug\XmlHomew.exe
+C:\Users\home\source\repos\XmlHomew\XmlHomew\bin\Debug\XmlHomew.pdb
+C:\Users\home\source\repos\XmlHomew\XmlHomew\obj\Debug\XmlHomew.csprojAssemblyReference.cache
+C:\Users\home\source\repos\XmlHomew\XmlHomew\obj\Debug\XmlHomew.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\XmlHomew\XmlHomew\obj\Debug\XmlHomew.exe
+C:\Users\home\source\repos\XmlHomew\XmlHomew\obj\Debug\XmlHomew.pdb
